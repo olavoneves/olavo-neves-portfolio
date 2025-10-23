@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
-import profilePhoto from "@/assets/profile-photo.jpg";
+import profilePhoto from "@/assets/Imagem do WhatsApp de 2025-06-02 à(s) 10.54.00_72cd0ac9.jpg";
 
 const About = () => {
   const scrollToProjects = () => {

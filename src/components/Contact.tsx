@@ -55,13 +55,13 @@ const Contact = () => {
     {
       name: "LinkedIn",
       icon: Linkedin,
-      url: "https://www.linkedin.com/in/olavoneves",
+      url: "https://www.linkedin.com/in/olavo-neves",
       color: "hover:text-primary"
     },
     {
       name: "YouTube",
       icon: Youtube,
-      url: "https://www.youtube.com/@olavoneves",
+      url: "https://www.youtube.com/@olavonevess/videos",
       color: "hover:text-destructive"
     }
   ];
